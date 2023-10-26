@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Чаевые</string>
+    <string name="tip_amount">Оставь на чай %s</string>
+    <string name="coast">Введите стоимость</string>
+    <string name="service">Как вам обслуживание?</string>
+    <string name="great">Отлично (10%)</string>
+    <string name="good">Хорошо (7%)</string>
+    <string name="normal">Нормально (5%)</string>
+    <string name="round">Округлить чаевые?</string>
+    <string name="button">Рассчитать</string>
+    <string name="studio">Konstantinov SoftStudio</string>
+    <string name="from">from</string>
+</resources>
