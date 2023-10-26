@@ -3,13 +3,13 @@
 Простое и удобное приложение для расчета чаевых.
 
 Можно расчитать чаевые в зависимости от качества обслуживания,
-а также функция округления.
+а также есть функция округления.
 
 <image src="/screenshots/1.jpg" width=30% height=30%>
 
-<image src="/ScreenShots/2.jpg" width=30% height=30%>
+<image src="/screenshots/2.jpg" width=30% height=30%>
 
-<image src="/ScreenShots/3.jpg" width=30% height=30%>
+<image src="/screenshots/3.jpg" width=30% height=30%>
 
 
 
