@@ -4,9 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/tipsbackgroung"
-    android:backgroundTintMode="screen"
-    android:padding="16dp"
+    android:background="@drawable/back_ground"
     tools:context=".MainActivity">
 
     <EditText
@@ -19,6 +17,7 @@
         android:hint="@string/coast"
         android:inputType="number"
         android:textColor="@color/black"
+        android:textColorHint="@color/black"
         android:textSize="24sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -91,7 +90,6 @@
         android:layout_width="314dp"
         android:layout_height="36dp"
         android:layout_marginTop="80dp"
-        android:backgroundTint="@color/button"
         android:text="@string/button"
         app:cornerRadius="15dp"
         app:layout_constraintEnd_toEndOf="parent"
@@ -105,7 +103,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="44dp"
         android:gravity="center"
-        android:textColor="@color/black"
+        android:textColor="@color/white"
         android:textSize="24sp"
         android:textStyle="bold"
         app:layout_constraintTop_toBottomOf="@+id/calculate_button"
