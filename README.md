@@ -5,11 +5,11 @@
 Можно расчитать чаевые в зависимости от качества обслуживания,
 а также есть функция округления.
 
-<image src="/screenshots/1.jpg" width=30% height=30%>
+<image src="/screenshots/11.jpg" width=30% height=30%>
 
-<image src="/screenshots/2.jpg" width=30% height=30%>
+<image src="/screenshots/22.jpg" width=30% height=30%>
 
-<image src="/screenshots/3.jpg" width=30% height=30%>
+<image src="/screenshots/33.jpg" width=30% height=30%>
 
 <image src="/screenshots/4.jpg" width=30% height=30%>
 
